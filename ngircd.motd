@@ -10,6 +10,8 @@
 *  server.                                       *
 **************************************************
 *  Run your own server anywhere that Docker runs *
+*  Oper user: o                                  *
+*  Oper pass: p                                  *
 *                                                *
 *  At bash console: docker run -d carver/ngircd  *
 *  More Docker info at www.docker.io             *

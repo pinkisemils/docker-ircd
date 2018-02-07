@@ -22,6 +22,10 @@ Your host is irc.example.net, running version ngircd-18
 ...
 ```
 
+Oper privs
+--------
+Any client can become an operator with username `o` and password `p`.
+
 Communication and Code
 --------
 
